@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1016270461041",
+    "project_id": "loginfirebaseretrofit-2c061999",
+    "storage_bucket": "loginfirebaseretrofit-2c061999.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016270461041:android:b71d5a79f8097ad89123d0",
+        "android_client_info": {
+          "package_name": "com.example.examen08_02"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ryj4xHFbTXraGG4WyLtHAGqhXHdi_Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016270461041:android:b762feaca87eb0cf9123d0",
+        "android_client_info": {
+          "package_name": "com.example.loginfirebaseretrofit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ryj4xHFbTXraGG4WyLtHAGqhXHdi_Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016270461041:android:938296c2a6befea49123d0",
+        "android_client_info": {
+          "package_name": "com.example.preparacionexamen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0Ryj4xHFbTXraGG4WyLtHAGqhXHdi_Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
